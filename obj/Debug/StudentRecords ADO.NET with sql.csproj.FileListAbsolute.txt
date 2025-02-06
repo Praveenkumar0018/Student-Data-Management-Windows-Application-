@@ -1,0 +1,25 @@
+C:\Users\praveenkumar_s1\Documents\14 Tasks\StudentRecords ADO.NET with sql\bin\Debug\StudentRecords ADO.NET with sql.exe.config
+C:\Users\praveenkumar_s1\Documents\14 Tasks\StudentRecords ADO.NET with sql\bin\Debug\StudentRecords ADO.NET with sql.exe
+C:\Users\praveenkumar_s1\Documents\14 Tasks\StudentRecords ADO.NET with sql\bin\Debug\StudentRecords ADO.NET with sql.pdb
+C:\Users\praveenkumar_s1\Documents\14 Tasks\StudentRecords ADO.NET with sql\obj\Debug\StudentRecords ADO.NET with sql.csproj.AssemblyReference.cache
+C:\Users\praveenkumar_s1\Documents\14 Tasks\StudentRecords ADO.NET with sql\obj\Debug\StudentRecords_ADO.NET_with_sql.Form1.resources
+C:\Users\praveenkumar_s1\Documents\14 Tasks\StudentRecords ADO.NET with sql\obj\Debug\StudentRecords_ADO.NET_with_sql.Properties.Resources.resources
+C:\Users\praveenkumar_s1\Documents\14 Tasks\StudentRecords ADO.NET with sql\obj\Debug\StudentRecords ADO.NET with sql.csproj.GenerateResource.cache
+C:\Users\praveenkumar_s1\Documents\14 Tasks\StudentRecords ADO.NET with sql\obj\Debug\StudentRecords ADO.NET with sql.csproj.CoreCompileInputs.cache
+C:\Users\praveenkumar_s1\Documents\14 Tasks\StudentRecords ADO.NET with sql\obj\Debug\StudentRecords ADO.NET with sql.exe
+C:\Users\praveenkumar_s1\Documents\14 Tasks\StudentRecords ADO.NET with sql\obj\Debug\StudentRecords ADO.NET with sql.pdb
+C:\Users\praveenkumar_s1\Desktop\StudentRecords ADO.NET with sql\obj\Debug\StudentRecords ADO.NET with sql.csproj.AssemblyReference.cache
+C:\Users\praveenkumar_s1\Desktop\StudentRecords ADO.NET with sql\obj\Debug\StudentRecords_ADO.NET_with_sql.Form1.resources
+C:\Users\praveenkumar_s1\Desktop\StudentRecords ADO.NET with sql\obj\Debug\StudentRecords_ADO.NET_with_sql.Properties.Resources.resources
+C:\Users\praveenkumar_s1\Desktop\StudentRecords ADO.NET with sql\obj\Debug\StudentRecords ADO.NET with sql.csproj.GenerateResource.cache
+C:\Users\praveenkumar_s1\Desktop\StudentRecords ADO.NET with sql\obj\Debug\StudentRecords ADO.NET with sql.csproj.CoreCompileInputs.cache
+C:\Users\praveenkumar_s1\Desktop\StudentRecords ADO.NET with sql\bin\Debug\StudentRecords ADO.NET with sql.exe.config
+C:\Users\praveenkumar_s1\Desktop\StudentRecords ADO.NET with sql\bin\Debug\StudentRecords ADO.NET with sql.exe
+C:\Users\praveenkumar_s1\Desktop\StudentRecords ADO.NET with sql\bin\Debug\StudentRecords ADO.NET with sql.pdb
+C:\Users\praveenkumar_s1\Desktop\StudentRecords ADO.NET with sql\bin\Debug\StudentRecordsClassLibrary.dll
+C:\Users\praveenkumar_s1\Desktop\StudentRecords ADO.NET with sql\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\praveenkumar_s1\Desktop\StudentRecords ADO.NET with sql\bin\Debug\StudentRecordsClassLibrary.pdb
+C:\Users\praveenkumar_s1\Desktop\StudentRecords ADO.NET with sql\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\praveenkumar_s1\Desktop\StudentRecords ADO.NET with sql\obj\Debug\StudentR.D1F32D52.Up2Date
+C:\Users\praveenkumar_s1\Desktop\StudentRecords ADO.NET with sql\obj\Debug\StudentRecords ADO.NET with sql.exe
+C:\Users\praveenkumar_s1\Desktop\StudentRecords ADO.NET with sql\obj\Debug\StudentRecords ADO.NET with sql.pdb
